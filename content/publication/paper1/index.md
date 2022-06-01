@@ -28,10 +28,10 @@ publication_types: ['2']
 publication: In *Journal of Elections, Public Opinion and Parties*
 publication_short: In *JEPOP*
 
-abstract: 
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
 tags: []
 
