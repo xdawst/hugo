@@ -8,7 +8,7 @@ authors:
   - admin
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
@@ -26,12 +26,12 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Elections, Public Opinion and Parties*
-publication_short: In *JEPOP*
+publication_short: In *Journal of Elections, Public Opinion and Parties*
 
-abstract:
+abstract: Abstract here.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: Summary here.
 
 tags: []
 
@@ -64,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 
 # Slides (optional).
@@ -72,7 +72,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+# slides: ""
 ---
 
 {{% callout note %}}
