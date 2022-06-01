@@ -28,20 +28,20 @@ publication_types: ['2']
 publication: In *Journal of Elections, Public Opinion and Parties*
 publication_short: In *JEPOP*
 
-abstract: ""
+abstract:
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary:
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Read it here
-   url: https://www.tandfonline.com/doi/full/10.1080/17457289.2020.1740716
+# links:
+# - name: Link
+#   url: https://www.tandfonline.com/doi/full/10.1080/17457289.2020.1740716
 
 url_pdf: ''
 url_code: ''
