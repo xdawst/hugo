@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2020-08-28T00:00:00Z'
-doi: ''
+# doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-08-28T00:00:00Z'
@@ -40,8 +40,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: Link
-   url: https://www.gu.se/sites/default/files/2020-09/2020%2011%20Dawson%20-%20Opinion%20polls%20and%20election%20predictions%20in%20the%202018%20Swedish%20General%20Election_0.pdf
+# - name: Link
+#   url: https://www.gu.se/sites/default/files/2020-09/2020%2011%20Dawson%20-%20Opinion%20polls%20and%20election%20predictions%20in%20the%202018%20Swedish%20General%20Election_0.pdf
 
 url_pdf: ''
 url_code: ''
