@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Stephen G. Dawson
+title: Stephen Dawson
 
 # Is this the primary user of the site?
 superuser: true
