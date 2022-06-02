@@ -6,7 +6,7 @@ name = "Minimal"
 google_fonts = "family=Gentium+Plus"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Gentium Plus"
 body_font = "Gentium Plus"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+nav_font = "Gentium Plus"
+mono_font = "Gentium Plus"
