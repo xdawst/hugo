@@ -7,6 +7,6 @@ google_fonts = "family=Gentium+Plus"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Roboto"
+body_font = "Gentium Plus"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
