@@ -78,4 +78,4 @@ The results of my research have been published in such outlets as the Internatio
 I am currently affiliated with the Misconduct and Whistleblowing in Political Parties project at the University of Gothenburg.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_dawson22.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_dawson22.pdf" "newtab" >}}CV{{< /staticref >}}.
