@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Stephen G. Dawson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Gothenburg
+    url: https://www.gu.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Electoral Integrity
+  - Political Competition
+  - Political Behaviour
+  - Corruption
+  - Electoral Systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Political Science
+      institution: University of Gothenburg
+      year: 2022
+    - course: MSocSci in Peace and Conflict Studies
+      institution: Uppsala University
+      year: 2016
+    - course: BA in Politics
+      institution: University of Hull
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,23 +47,20 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/sg_dawson
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=4xj4UpMAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/stephen-dawson-1482b19a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/CV_dawson22.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,8 +69,13 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an associate researcher at the Department of Political Science at the University of Gothenburg. I completed my PhD in political science at the University of Gothenburg in February 2022.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include the dynamics of the relationship between political competition and the conduct of elections, as well as the institutional conditions associated with corruption. I study these issues using surveys and experimental methods, as well as meta-analyses and qualitative comparative analyses.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+The results of my research have been published in such outlets as the International Journal of Press/Politics, Party Politics, and the Journal of Elections, Public Opinion and Parties among others.
+
+I am currently affiliated with the Misconduct and Whistleblowing in Political Parties project at the University of Gothenburg.
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_dawson22.pdf" "newtab" >}}resumé{{< /staticref >}}.
